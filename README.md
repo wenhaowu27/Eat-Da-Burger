@@ -17,5 +17,8 @@ In this assignment,I'll create a burger logger with MySQL, Node, Express, Handle
 * Your app will store every burger in a database, whether devoured or not.
 
 ![Image of home](./images/Eat-Da-Burger_1.jpg)
+![Image of home](./images/Eat-Da-Burger_2.jpg)
+![Image of home](./images/Eat-Da-Burger_3.jpg)
+![Image of home](./images/Eat-Da-Burger.mp4)
 
 
